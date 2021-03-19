@@ -3,16 +3,11 @@ background-color: #000;
 text-align: center;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-
+/*headings*/
 .header--main {
     font-weight: normal;
     font-size: 50px;
     color: white;
-}
-
-.link--cta {
-    color: aquamarine;
-    font-size: 16px;
 }
 
 .header--center {
@@ -25,3 +20,15 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 21px;
     color: gray;
 }
+
+/*links*/
+
+.link--cta {
+    color: aquamarine;
+    font-size: 16px;
+}
+/*footer*/
+.footer--copyright {
+    color: gray;
+    font-size: 21px; 
+    text-align: right;
